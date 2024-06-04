@@ -1,0 +1,19 @@
+body 
+{
+    background-image:url(https://www.w3schools.com/w3css/img_lights.jpg);
+    background-position:center;
+    background-size:cover;
+
+
+
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+title
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
